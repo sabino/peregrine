@@ -1,7 +1,7 @@
 import math
 import networkx as nx
 from .utils import last_index_in_list
-from utils.logging_utils import FormatForLogAdapter
+from .utils.logging_utils import FormatForLogAdapter
 from .utils import load_exchange_graph
 import logging
 __all__ = [
